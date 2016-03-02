@@ -50,6 +50,11 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
+    <None Include="00_Syntax.fsx" />
+    <None Include="01_Quicksort.fsx" />
+    <None Include="02_UnionTypes.fsx" />
+    <None Include="04_Composition.fsx" />
+    <None Include="05_ActivePatterns.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
