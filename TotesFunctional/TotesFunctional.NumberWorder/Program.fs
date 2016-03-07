@@ -39,7 +39,7 @@ let main argv =
             | 8 -> "Eight"
             | 9 -> "Nine"
             | 0 -> "Zero"
-            | _ -> "Bajillion"
+            | _ -> ""
 
     let builder numbers = 
         let accumulator = fun acc elem -> acc + (alternateWorder elem)
