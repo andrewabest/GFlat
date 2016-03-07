@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TotesFunctional.App", "Tote
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TotesFunctional.Api", "TotesFunctional.Api\TotesFunctional.Api.fsproj", "{A9AA61AC-E53D-4AA9-8851-A06A7BFF970D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TotesFunctional.NumberWorder", "TotesFunctional.NumberWorder\TotesFunctional.NumberWorder.fsproj", "{C63AE909-AE6A-4119-B520-66732A7E9AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A9AA61AC-E53D-4AA9-8851-A06A7BFF970D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AA61AC-E53D-4AA9-8851-A06A7BFF970D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AA61AC-E53D-4AA9-8851-A06A7BFF970D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63AE909-AE6A-4119-B520-66732A7E9AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63AE909-AE6A-4119-B520-66732A7E9AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63AE909-AE6A-4119-B520-66732A7E9AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63AE909-AE6A-4119-B520-66732A7E9AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
